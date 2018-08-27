@@ -4,6 +4,12 @@
     <meta charset="UTF-8">
     <title>HW1</title>
   </head>
+  <style type="text/css">
+  .col-sm{
+    font-size: 30;
+    color: red;
+  }
+  </style>
   <body>
 <div class="row placeholder">
   <div class="col-sm">

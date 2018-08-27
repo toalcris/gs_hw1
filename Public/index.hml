@@ -5,6 +5,16 @@
     <title>HW1</title>
   </head>
   <body>
-
+<div class="row placeholder">
+  <div class="col-sm">
+    column1
+  </div>
+  <div class="col-sm">
+    column2
+  </div>
+  <div class="col-sm">
+    column3
+  </div>
+</div>
   </body>
 </html>
